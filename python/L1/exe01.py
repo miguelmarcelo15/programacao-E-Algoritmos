@@ -2,7 +2,7 @@
 numero = int(input("digite um número inteiro: "))
 
 if numero > 0:
-    print("o numero é positovo! ")
+    print("o numero é positivo! ")
 elif numero < 0:
     print("o numero é negativo! ")
 else:
